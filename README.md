@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hey — I’m Muhfees 👋</h1>
-<h3 align="center">🚀 Data Engineer · IoT & Embedded Systems · Flutter Developer · Motivational Creator</h3>
+<h3 align="center">🚀 Data Engineer · IoT & Embedded Systems · ML Engineer · Motivational Creator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&width=640&lines=Code.+Build.+Automate.+Inspire." alt="Typing SVG"/>
